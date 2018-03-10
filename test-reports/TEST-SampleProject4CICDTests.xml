@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite errors="0" failures="0" hostname="Hais-MBP" name="SampleProject4CICDTests" tests="2" time="0.318" timestamp="2018-03-10 09:29:55 +0800"><testcase classname='SampleProject4CICDTests' name='testPerformanceExample' time='0.313' />
+<testcase classname='SampleProject4CICDTests' name='testSquare' time='0.004' />
+</testsuite>
